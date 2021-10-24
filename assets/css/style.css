@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    color: inherit;
+}
+
+button {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    background-color: dodgerblue;
+    font-size: 24px;
+    color: white;
+    cursor: pointer;
+}
+
+canvas {
+    display: block;
+}
